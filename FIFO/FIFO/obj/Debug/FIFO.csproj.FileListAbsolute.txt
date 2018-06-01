@@ -1,0 +1,10 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\bin\Debug\FIFO.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\bin\Debug\FIFO.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\bin\Debug\FIFO.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\FIFO\FIFO\obj\Debug\FIFO.pdb
